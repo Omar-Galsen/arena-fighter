@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #111;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+#game {
+  margin-top: 20px;
+}
